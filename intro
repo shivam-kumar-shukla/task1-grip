@@ -1,0 +1,28 @@
+Name           -    SHIVAM KUMAR SHUKLA
+Internship     -    Data Science 
+Task           -    Prediction using Supervised ML(Level-Beginner)
+	
+
+
+-----------------------------(  TASK   )---------------------------------
+
+
+1.Problem Defination     : Predict the percentage of a student on the no.
+			                     of study hours,using linear Regression model in Python.
+
+
+2.Hypothesis             : Factors impacting scores here are study hours.
+
+3.Data Extraction        : Availaible data in .CSV format
+			   link           - http://bit.ly/w-data
+                           No. of Rows    - 25
+			                     No. of Columns - 2
+
+4.Data Exploration       : Columns            - 2 (Hours, Scores)
+                           Types of variable  - Continuious Variable
+                                                  Hours (float64),
+                                                  Scores (int64)
+                           Missing values     - None
+
+
+					
